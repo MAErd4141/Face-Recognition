@@ -1,0 +1,4 @@
+venv310/
+*.mp4
+*.dat
+__pycache__/
